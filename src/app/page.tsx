@@ -9,7 +9,7 @@ export default function Home() {
   const [searchTerm, setSearchTerm] = useState("");
   const { loading, error, data } = useQuery(GET_COUNTRIES);
 
-  const filteredCountries = data?.countries.filter((country: any) =>
+ const filteredCountries = (data as any)?.countries?.filter((country: any) =>
     country.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
