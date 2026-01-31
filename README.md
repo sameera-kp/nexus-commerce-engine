@@ -3,7 +3,8 @@
 A high-performance, responsive global market dashboard built with **Next.js 16**, **GraphQL**, and **Tailwind CSS v4**. This application provides real-time insights into global market distribution through an intuitive and modern interface.
 
 ---
-
+**🚀 Live Demo:** [https://nexus-commerce-engine-39gh-git-main-sameeras-projects-ab5b9cf7.vercel.app/](https://nexus-commerce-engine-39gh-git-main-sameeras-projects-ab5b9cf7.vercel.app/)
+---
 ## ✨ Features
 
 - **GraphQL Integration:** Seamlessly fetches real-time country data using Apollo Client from the Countries API.
