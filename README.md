@@ -29,8 +29,7 @@ Follow these steps to set up the project on your local machine:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/sameera-kp/nexus-commerce-engine.git](https://github.com/sameera-kp/nexus-commerce-engine.git)
-
+git clone [https://github.com/sameera-kp/nexus-commerce-engine.git]
 # 2. Navigate to the project directory
 cd nexus-commerce-engine
 
